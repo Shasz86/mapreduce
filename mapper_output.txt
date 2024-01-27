@@ -1,0 +1,11 @@
+hi 1
+batman 1
+cat 1
+apple 1
+have 1
+a 1
+donut 1
+ferrari 1
+batman 1
+apple 1
+cat 1

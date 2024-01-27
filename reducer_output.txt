@@ -1,0 +1,8 @@
+a 1
+apple 2
+batman 2
+cat 2
+donut 1
+ferrari 1
+have 1
+hi 1
